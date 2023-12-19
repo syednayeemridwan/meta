@@ -1,0 +1,22 @@
+.div-1{
+    float: left;
+    width: 50%;
+    background-color: #f00;
+  }
+  /* 
+    after applying float i used clear: both
+    try this code and remove the clear property and see what will be happened
+  */
+  .clear-float{
+    clear: both;
+    overflow: auto;
+  }
+  .div-2{
+    float: left;
+    width: 50%;
+    background-color: #00f;
+  }
+  .clear-float{
+    clear: both;
+    overflow: auto;
+  }

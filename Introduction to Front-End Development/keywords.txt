@@ -9,3 +9,10 @@ css block to inline
 css selectors
 css color
 css float
+bootstrap table
+bootstrap grid / column
+bootstrap alert
+bootstrap card
+bootstrap form
+bootstrap button
+bootstrap theme

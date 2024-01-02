@@ -1,0 +1,5 @@
+javascript primitive type
+if else javascript
+switch javascript
+for loop javascript
+while loop javascript
